@@ -9,5 +9,5 @@ PERIOD : 8시간, 팀 프로젝트 100% 참여<br>
 TOOL : HTML5 / CSS3 / javascript / Git<br><br>
 
 
-[HOLLYS 바로가기](https://eunbi1228.github.io/HOLLYS/index.html)
+[HOLLYS 바로가기](https://eunbi1228.github.io/HOLLYS/index.html)<br>
 [기존 HOLLYS 바로가기](https://www.hollys.co.kr/)
