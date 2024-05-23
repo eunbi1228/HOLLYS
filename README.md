@@ -4,7 +4,7 @@
 
 <hr>
 TYPE : HOLLYS (클론코딩) <br>
-PAGE : INDEX (1페이지)<br>
+PAGE : INDEX, SUB*1 (2페이지)<br>
 PERIOD : 8시간, 팀 프로젝트 100% 참여<br>
 TOOL : HTML5 / CSS3 / javascript / Git<br><br>
 
